@@ -9,7 +9,7 @@ int main(){
     int dlzka;
     float splatka;
 
-    printf("asdasdasdSuma: ");
+    printf("Suma: ");
     scanf("%f",&suma);
 
     printf("Urok v percentach: ");
